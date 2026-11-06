@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+*.tmp
+*.log
+.env
+.env.*
+config.local.json
+assets/output/**/generate_image参数.json
